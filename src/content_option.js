@@ -8,9 +8,9 @@ const meta = {
 const introdata = {
   title: "I’m Berkay San",
   animated: {
-    first: "I love coding",
-    second: "I code cool websites",
-    third: "I develop artificial intelligence models"
+    first: "I think lightly of myself and deeply of the world.|",
+    second: "I believe in intuition and inspiration. Imagination is more important than knowledge.",
+    third: "I make mistakes. I say stupid things. I contradict myself even when thinking deeply and rigorously. I change my mind when I learn new facts or look at ideas in a new light."
   } /*burasi silip tekrar yazilan yazinin icerigi */,
   description:
     "I have approximate answers, and possible beliefs, and different degrees of certainty about different things, but I'm not absolutely sure of anything. There are many things I don't know anything about. It doesn't frighten me." /*anasayfa kisa cumke */,
@@ -19,7 +19,7 @@ const introdata = {
 };
 
 const dataabout = {
-  title: "a bit about my self",
+  title: "A bit about myself",
   aboutme:
     "I am a 3rd year Artificial Intelligence Engineering student at TOBB University of Economics and Technology. At the same time, I am a Computer Engineering double major program student. My main fields of study and research are artificial intelligence tools and deep learning models used in finance. I love anything computer-related in general. In my spare time, I deal with cyber security, small applications."
 };
@@ -57,10 +57,6 @@ const skills = [
   {
     name: "Deep Learning",
     value: 69
-  },
-  {
-    name: "Unreal Engine",
-    value: 40
   }
 ];
 
@@ -160,10 +156,10 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "name@domain.com",
-  YOUR_FONE: "(555)123-4567",
+  YOUR_EMAIL: "muhammedberkaysan@gmail.com",
+  YOUR_FONE: "0 (312) 248 3291",
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    "Ankara/Söğütözü",
   YOUR_SERVICE_ID: "service_id",
   YOUR_TEMPLATE_ID: "template_id",
   YOUR_USER_ID: "user_id"
